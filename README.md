@@ -1,4 +1,4 @@
-# Helpinh Hand Application
+# Helping Hand Application
 Η εφαρμογή βάσης την οποία εντοπίσαμε είναι το React-Weather-App το οποίο εντοπίσαμε σε public repository στο github στον ακόλουθο σύνδεσμο https://github.com/s-shemmee/React-Weather-App. Η συγκεκριμένη εφαρμογή κάνει της React και επιτρέπει στους χρήστες να αναζητούν ενημέρωση και πρόβλεψη για τις καιρικές συνθήκες που επικρατούν ή θα επικρατήσουν στις πόλεις ανά τον κόσμο. Η εφαρμογή φέρνει δεδομένα κάνοντας χρήση του API SheCodesWeather.
 
 <img src="images/background3.PNG" alt="Εικόνα" width="1000" height="680">
